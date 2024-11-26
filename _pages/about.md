@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "我的主页"
+title: "杨明翰的网站"
 author_profile: true
 redirect_from: 
   - /about/
