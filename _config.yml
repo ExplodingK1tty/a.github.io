@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : #"A"
 title_separator          : "-"
-name                     : &name "杨明翰"
+name                     : &name "雷老伍"
 description              : #&description "大三计算机网络学生"
 url                      : https://ExplodingK1tty.github.io/a.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
