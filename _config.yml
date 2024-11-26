@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "泸州"
+locale                   : "en-US"
 title                    : "首页"
 title_separator          : "-"
 name                     : &name "陈浩"
@@ -22,13 +22,13 @@ repository               : "https://github.com/ExplodingK1tty/a.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "陈浩"
+  pronouns         : "he"
+  bio              : "^_^"
+  location         : "西南医科大学"
+  employer         : "学生"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "2012272144@qq.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
