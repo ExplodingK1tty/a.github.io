@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "雷老伍的网站"
+title: "一个  雷老伍的网站"
 author_profile: true
 redirect_from: 
   - /about/
