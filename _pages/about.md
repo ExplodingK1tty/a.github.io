@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-我是来自西南医科大学的陈浩
+我是杨明翰
