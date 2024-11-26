@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "首页"
+title                    : "A"
 title_separator          : "-"
-name                     : &name "陈浩"
-description              : &description "大三计算机网络学生"
+name                     : &name "杨明翰"
+description              : #&description "大三计算机网络学生"
 url                      : https://ExplodingK1tty.github.io/a.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/ExplodingK1tty/a.github.io"
@@ -21,14 +21,14 @@ repository               : "https://github.com/ExplodingK1tty/a.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "陈浩"
-  pronouns         : "he"
-  bio              : "^_^"
-  location         : "西南医科大学"
-  employer         : "学生"
+  avatar           : #"profile.png"
+  name             : #"陈浩"
+  pronouns         : #"he"
+  bio              : #"^_^"
+  location         : #"西南医科大学"
+  employer         : #"学生"
   uri              : # URL
-  email            : "2012272144@qq.com" 
+  email            : #"2012272144@qq.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
