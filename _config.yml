@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "A"
+title                    : #"A"
 title_separator          : "-"
 name                     : &name "杨明翰"
 description              : #&description "大三计算机网络学生"
