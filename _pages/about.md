@@ -1,10 +1,10 @@
 ---
 permalink: /
-title: "杨明翰的网站"
+title: "雷老伍的网站"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-我是杨明翰
+我是雷老伍
