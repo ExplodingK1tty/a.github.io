@@ -21,11 +21,11 @@ repository               : "https://github.com/ExplodingK1tty/a.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : #"profile.png"
-  name             : #"陈浩"
+  avatar           : "profile.png"
+  name             : "老伍"
   pronouns         : #"he"
   bio              : #"^_^"
-  location         : #"西南医科大学"
+  location         : "西南医科大学"
   employer         : #"学生"
   uri              : # URL
   email            : #"2012272144@qq.com" 
